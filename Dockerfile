@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-MAINTAINER Mutiara_Rahmanda <1941720189@student.polinema.ac.id>
+MAINTAINER darman2001 <1941720060@student.polinema.ac.id>
 RUN mkdir -p /java
 WORKDIR /java
 
